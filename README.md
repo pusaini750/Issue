@@ -2,6 +2,8 @@
 nln
 'c
 dc
-d
+di
+xsc
+
 c cds 
 efvgrwbgr
